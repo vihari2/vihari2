@@ -11,13 +11,13 @@
 <div><p>Tenho experiência com:</p>
 <ul>
 <li>✔ HTML</li>
-<li> ✔ CSS</li>
-<li> ✔ Bootstrap</li>
+<li>✔ CSS</li>
+<li>✔ Bootstrap</li>
  </ul></div>
 <div><p>Estudando atualmente:</p>
 <ul>
-<li> ✏JavaScript</li>
-<li> ✏Nuxt</li>
-<li> ✏Vue</li>
-<li> ✏Vuetify</li> 
+<li> ✏ JavaScript</li>
+<li> ✏ Nuxt</li>
+<li> ✏ Vue</li>
+<li> ✏ Vuetify</li> 
 </div></ul></p> 
