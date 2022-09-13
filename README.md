@@ -7,7 +7,7 @@
 <li>Pronome: Tanto faz (ela/dela, ele/dele...) </li>
 <li>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</li>
 <li>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR.</li>
-<li> Procurando emprego como Dev Front-end </li>
+<li> Procurando estágio como Dev Front-end </li>
 </ul></div>
 <div><p>Tenho experiência com:</p>
 <ul>
