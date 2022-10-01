@@ -2,7 +2,7 @@
 
 <h1> Olá!, Bem vindo! 🐱‍🐉 </h1> 
 <ul><div>
-<li>Nome: Vitória, mas também pode me chamar de Ari, Ariel...</li>
+<li>Nome: Vitória</li>
 <li> 25 anos. </li>
 <li>Pronome: Tanto faz (ela/dela, ele/dele...) </li>
 <li>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</li>
