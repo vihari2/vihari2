@@ -1,9 +1,9 @@
 
 
 <div align="center">
-  <h1><i>Olá!, Bem vindo! 🐱‍🐉 </h1></i>
+  <h1><i>Bem vindo! 🐱‍🐉 </h1></i>
 <ul><div>
-<li>Nome: Vitória</li>
+<li>Vitória</li>
 <li>25 anos. </li>
 <li>Pronome: Tanto faz (ela/dela, ele/dele...) </li>
 <li>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</li>
