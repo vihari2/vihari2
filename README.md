@@ -5,13 +5,13 @@
      <img src="https://i.imgur.com/R18U3uy.png" width="200" height="200" alt="css-in-readme">
     <img src="https://i.imgur.com/NM2jHLL.png" width="200" height="200" alt="css-in-readme">
   <h1>Seja Bem vindo!</h1>
-<ul><div>
+<div>
 </div>
-<br>Vitória</br>
-<br>25 anos</br>
-<br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR</br>
-<br>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR</br>
-</ul>
+    <br><strong>Vitória</strong>
+<br>25 anos
+<br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR
+<br>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR
+</br>
 
   <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vihari2&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
