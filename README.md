@@ -1,14 +1,18 @@
 
 
 <div align="center">
-  <h1><i>Bem vindo! 🐱‍🐉 </h1></i>
+    <img src="https://i.imgur.com/J9p8AzT.png" width="400" height="400" alt="css-in-readme">
+  <h1><i>Bem vindo!</h1></i>
 <ul><div>
-<li>Vitória</li>
-<li>25 anos. </li>
-<li>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</li>
-<li>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR.</li>
-  <a href="https://github.com/vihari2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vihari2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<br>Vitória</br>
+<br>25 anos.</br>
+<br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</br>
+<br>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR.</br>
+</ul>
+
+  <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vihari2&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -29,3 +33,5 @@
 
 
 ![snake gif](https://github.com/vihari2/vihari2/blob/output/github-contribution-grid-snake.svg)
+
+
