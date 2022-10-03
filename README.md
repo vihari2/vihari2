@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/gOGpI4p.png" width="200" height="200" alt="css-in-readme">
      <img src="https://i.imgur.com/R18U3uy.png" width="200" height="200" alt="css-in-readme">
     <img src="https://i.imgur.com/NM2jHLL.png" width="200" height="200" alt="css-in-readme">
-  <h1><i>Bem vindo!</h1></i>
+  <h1>Seja Bem vindo!</h1>
 <ul><div>
 </div>
 <br>Vitória</br>
