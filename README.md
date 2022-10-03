@@ -7,6 +7,8 @@
 <li>25 anos. </li>
 <li>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</li>
 <li>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR.</li>
+  <a href="https://github.com/vihari2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vihari2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
