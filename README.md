@@ -5,7 +5,6 @@
 <ul><div>
 <li>Vitória</li>
 <li>25 anos. </li>
-<li>Pronome: Tanto faz (ela/dela, ele/dele...) </li>
 <li>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</li>
 <li>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR.</li>
 
