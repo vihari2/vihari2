@@ -1,9 +1,9 @@
 
 
 <div align="center">
-    <img src="https://i.imgur.com/gOGpI4p.png" width="200" height="200" alt="css-in-readme">
-     <img src="https://i.imgur.com/R18U3uy.png" width="200" height="200" alt="css-in-readme">
-    <img src="https://i.imgur.com/NM2jHLL.png" width="200" height="200" alt="css-in-readme">
+    <img src="https://i.imgur.com/gOGpI4p.png" width="100" height="100" alt="css-in-readme">
+     <img src="https://i.imgur.com/R18U3uy.png" width="100" height="100" alt="css-in-readme">
+    <img src="https://i.imgur.com/NM2jHLL.png" width="100" height="100" alt="css-in-readme">
   <h1>Seja Bem vindo!</h1>
 <div>
 </div>
