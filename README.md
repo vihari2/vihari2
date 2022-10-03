@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://i.imgur.com/J9p8AzT.png" width="400" height="400" alt="css-in-readme">
+    <img src="https://i.imgur.com/J9p8AzT.png" width="200" height="200" alt="css-in-readme">
   <h1><i>Bem vindo!</h1></i>
 <ul><div>
 </div>
