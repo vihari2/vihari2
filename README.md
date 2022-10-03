@@ -8,9 +8,9 @@
 <ul><div>
 </div>
 <br>Vitória</br>
-<br>25 anos.</br>
-<br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</br>
-<br>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR.</br>
+<br>25 anos</br>
+<br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR</br>
+<br>Faz trabalho voluntário na empresa Ecomp, empresa junior de informática da UFPR</br>
 </ul>
 
   <br>
