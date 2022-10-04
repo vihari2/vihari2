@@ -15,6 +15,9 @@
 
   <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vihari2&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <br>
+    <br>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihari2&layout=compact&langs_count=7&theme=vue-dark"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
