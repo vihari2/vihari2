@@ -34,6 +34,7 @@
   <p> Minhas redes sociais: </p>
    <a href="https://www.linkedin.com/in/vih-freitasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/viceek/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://gitlab.com/freitasvitoria712" target="_blank"><img src="https://img.shields.io/badge/-gitlab-%BD942D?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
 </div>
 
 
