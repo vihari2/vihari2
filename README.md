@@ -11,6 +11,8 @@
 <br>25 anos
 <br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR
 <br>Faz trabalho voluntário na empresa Ecomp, empresa de informática da UFPR
+<br> Amo de paixão o mundo da tecnologia, videogame, musica e arte!
+
 </br>
 
   <br>
