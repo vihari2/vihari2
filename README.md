@@ -11,7 +11,7 @@
 <br>25 years
 <br>IT student at UFPR, PR-Brazil.
 <br> Volunteer work
-<a href="https://ecomp.co/">Ecomp</a>
+<a href="https://ecomp.co/" target="_blank">Ecomp</a>
 
 </br>
 
