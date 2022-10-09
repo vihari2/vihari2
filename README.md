@@ -4,14 +4,14 @@
     <img src="https://i.imgur.com/gOGpI4p.png" width="100" height="100" alt="css-in-readme">
      <img src="https://i.imgur.com/R18U3uy.png" width="100" height="100" alt="css-in-readme">
     <img src="https://i.imgur.com/NM2jHLL.png" width="100" height="100" alt="css-in-readme">
-  <h1>Seja Bem vindo!</h1>
+  <h1>Welcome!</h1>
 <div>
 </div>
-    <br><strong>Vitória</strong>
-<br>25 anos
-<br>Estudante de Análise e Desenvolvimento de Sistemas na UFPR
-<br>Faz trabalho voluntário na empresa Ecomp, empresa de informática da UFPR
-<br> Amo de paixão o mundo da tecnologia, videogame, musica e arte!
+    <br><strong>Vitoria</strong>
+<br>25 years
+<br>IT student at UFPR, PR-Brazil.
+<br> Volunteer work
+<a href="https://ecomp.co/">Ecomp</a>
 
 </br>
 
@@ -33,7 +33,7 @@
 </div>
 <br>
 <div>
-  <p> Minhas redes sociais: </p>
+ 
    <a href="https://www.linkedin.com/in/vih-freitasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/viceek/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/freitasvitoria712" target="_blank"><img src="https://img.shields.io/badge/-gitlab-%BD942D?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
