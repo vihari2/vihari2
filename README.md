@@ -26,7 +26,9 @@
 </div>
 <br>
 <div>
+    <br>
  <center>
+
    <a href="https://www.linkedin.com/in/vih-freitasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/freitasvitoria712" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
    <a href="https://stackoverflow.com/users/19953732/vitoria" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
