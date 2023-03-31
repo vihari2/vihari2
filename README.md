@@ -1,10 +1,12 @@
 
 
-<div id="header" align="center">
+<div id="header" align="center" display="flex" flex-direction="row">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihari2&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihari2&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihari2&show_icons=true&theme=dark)
 </div>
+
 <div align="center">
   <img align="center" alt="vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
