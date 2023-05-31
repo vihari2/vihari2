@@ -1,7 +1,7 @@
 
 
 <p align="center">
-	<img alt="Waving Hi" height="200px" style="border-radius:5%;border:1px solid cyan" src="https://media3.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif?cid=ecf05e47jxkqz3hwz3i6zcexm8rfn51uol5eiepr3se43rgp&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
+	<img alt="cat" height="200px" style="border-radius:5%;border:1px solid cyan" src="https://media3.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif?cid=ecf05e47jxkqz3hwz3i6zcexm8rfn51uol5eiepr3se43rgp&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
 </p>
 
 
