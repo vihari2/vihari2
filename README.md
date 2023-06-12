@@ -19,7 +19,7 @@
   <br><br>
  
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,spring,c,cs,java,vue,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,spring,c,cs,java,vue,html,css,idea,vscode)](https://skillicons.dev)
 
 
 
