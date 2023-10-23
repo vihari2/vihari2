@@ -17,9 +17,12 @@
      <a href="https://www.linkedin.com/in/vih-freitasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/freitasvitoria712" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <br><br>
- 
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,vue,html,css,idea,vscode,figma)](https://skillicons.dev)
+ Code
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,vue,html,css,idea,vscode)](https://skillicons.dev)
 
 
+Web Design
 
+[![My Skills](https://skillicons.dev/icons?i=figma,wordpress,ps,ai)](https://skillicons.dev)
