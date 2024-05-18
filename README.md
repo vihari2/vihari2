@@ -20,7 +20,7 @@
 
  Code
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,vue,html,css,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,vue,html,css,vscode)](https://skillicons.dev)
 
 
 Web Design
