@@ -7,7 +7,7 @@
 ## 🔧 My Tech Stack
 
 ### Code
-[![My Skills](https://skillicons.dev/icons?i=js,python,vue,html,css,vscode,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,vue,html,css,vscode)](https://skillicons.dev)
 
 ### Web Design
 [![My Skills](https://skillicons.dev/icons?i=figma,wordpress,ps)](https://skillicons.dev)
