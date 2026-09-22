@@ -1,9 +1,11 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/vih-freitasm/">
+  <a href="https://www.linkedin.com/in/vih-freitasm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn">
   </a>
   &nbsp;
- <a href="https://vihari2.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?logo=googleearth&logoColor=white&style=for-the-badge" height="40" alt="Portfolio"> </a>
+  <a href="https://vihari2.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?logo=googleearth&logoColor=white&style=for-the-badge" height="40" alt="Portfolio">
+  </a>
 </p>
 
 
