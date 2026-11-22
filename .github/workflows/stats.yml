@@ -18,6 +18,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: verify stats token is configured
+        env:
+          STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::Add a personal access token as the GH_STATS_TOKEN Actions secret."
+            exit 1
+          fi
+
       - name: generate stats.svg
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -27,6 +36,12 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
+      - name: verify stats card
+        run: |
+          if grep -qF "Something went wrong" dist/stats.svg; then
+            echo "::error::The stats API rejected the token. Use a personal access token with repo and read:user scopes."
+            exit 1
+          fi
 
       - name: push stats.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
